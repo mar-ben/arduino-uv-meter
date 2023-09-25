@@ -14,3 +14,5 @@ To build this project, you will need the following hardware components:
 - Jumper wires
 - Breadboard 
 - Power source (USB cable or battery)
+
+![Alt Text](URL_of_the_image)
