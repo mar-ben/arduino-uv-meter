@@ -15,4 +15,4 @@ To build this project, you will need the following hardware components:
 - Breadboard 
 - Power source (USB cable or battery)
 
-![Alt Text](URL_of_the_image)
+![Alt Text](https://github.com/mar-ben/arduino-uv-meter/blob/main/uv_meter.jpg)
